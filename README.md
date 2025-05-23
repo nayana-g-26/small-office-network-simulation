@@ -54,11 +54,15 @@ All IPs are organized by subnet. Refer to this for details:
 3. Open the `.pkt` file in Cisco Packet Tracer.
 4. Use the simulation panel to test ping commands and inspect routing.
 
+---
+
 ## ✅ Features
 
 - Static routing configuration
 - Centralized server access
 - LAN segmentation with subnetting
+
+---
 
 ## 🌟 Future Improvements
 
